@@ -1,6 +1,6 @@
 👋 Hi there! 
 
-##### I am...
+#### I am...
 
 - **treefds** aka. **zenk** aka. **Chen**
 - Undergraduate student from SJTU
@@ -8,4 +8,4 @@
 - Currently Into: 
   - Indie game development
   - languages, linguistics and stuff
-  - Animation
+  - 2D animation and films
