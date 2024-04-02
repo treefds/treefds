@@ -2,7 +2,7 @@
 
 #### I am...
 
-- **treefds** aka. **zenk** aka. **Chen**
+- **treefds** aka. **Chen**
 - Undergraduate student from SJTU
 - Major in Artificial Intelligence
 - Currently Into: 
