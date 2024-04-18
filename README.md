@@ -3,9 +3,10 @@
 #### I am...
 
 - **treefds** aka. **Chen**
+  - You can also call me **zenk**
 - Undergraduate student from SJTU
 - Major in Artificial Intelligence
 - Currently Into: 
-  - Indie game development
+  - Indie game development ([itch.io page](https://zenkfds.itch.io/))
   - languages, linguistics and stuff
   - 2D animation and films
