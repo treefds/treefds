@@ -2,9 +2,9 @@
 
 I am...
 - Chen
-- An undergraduate student at SJTU
-  - Majoring in AI
-- Also interested in
+- MSIN at CMU (ongoing)
+- BEng in AI at SJTU
+- interested in
   - indie game development (check out [my games](https://zenkfds.itch.io/)!)
   - linguistics and stuff
   - animation and films
